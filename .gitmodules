@@ -1,0 +1,3 @@
+[submodule "pokeapi-rails"]
+	path = pokeapi-rails
+	url = git@github.com:noanonoa/pokeapi-rails.git
