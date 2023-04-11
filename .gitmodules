@@ -1,3 +1,6 @@
 [submodule "pokeapi-rails"]
 	path = pokeapi-rails
 	url = git@github.com:noanonoa/pokeapi-rails.git
+[submodule "pasagi-leaderboard"]
+	path = pasagi-leaderboard
+	url = git@github.com:noanonoa/pasagi-leaderboard.git
